@@ -1,6 +1,6 @@
 # Jurin-SK
 
-👋 Hi, I’m @Jurin-SK
+👋 Hi, I’m @Jurin-SK from Slovakia
 
 # About me
 

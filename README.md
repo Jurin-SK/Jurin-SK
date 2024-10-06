@@ -8,4 +8,14 @@
 - 🌱 I’m currently learning C# WPF
 - ⚡ Fun fact: Arch Linux better than Ubuntu :D
 - 😊 I'm an amateur but I like programming very much
-  
+
+# News
+
+## Soon
+
+- Jurin Raycaster
+- Clock readme update
+
+## New
+
+- Add license to my projects

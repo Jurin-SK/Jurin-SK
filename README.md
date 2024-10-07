@@ -13,10 +13,10 @@
 
 ## Soon
 
-- 🔦 Jurin Raycaster
 - ⌚ Clock readme update
 - 🎃 Haloween joke
 
 ## New
 
+- 🔦 Jurin Raycaster
 - 📑 Add license to my projects

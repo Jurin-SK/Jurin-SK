@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning C++ wxWidgets
 - ⚡ Fun fact: Arch Linux better than Ubuntu :D
 - 😊 I'm an amateur but I like programming very much
-- ▶️ YT Channel https://www.youtube.com/@jurinCodes
 
 # News
 

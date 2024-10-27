@@ -20,4 +20,3 @@
 
 - 🔦 Jurin Raycaster
 - 📑 Add license to my projects
-- 🪪 My personal page

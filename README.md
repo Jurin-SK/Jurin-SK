@@ -13,8 +13,7 @@
 
 ## Soon
 
-- ⌚ Clock readme update
-- 🎃 Haloween joke
+- ❓PONY-MD
 
 ## New
 

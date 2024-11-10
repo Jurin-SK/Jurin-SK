@@ -19,3 +19,7 @@
 
 - 🔦 Jurin Raycaster
 - 📑 Add license to my projects
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

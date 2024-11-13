@@ -5,7 +5,7 @@
 # About me
 
 - 👀 I’m interested in programming playing trumpet and video editing 🎺
-- 🌱 I’m currently learning C++ wxWidgets
+- 🌱 I’m currently learning C# WPF MVVM, Classes
 - ⚡ Fun fact: Arch Linux better than Ubuntu :D
 - 😊 I'm an amateur but I like programming very much
 

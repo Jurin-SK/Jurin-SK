@@ -4,9 +4,9 @@
 
 # About me
 
-- 👀 I’m interested in programming playing trumpet and video editing 🎺
-- 🌱 I’m currently learning C# WinUI 3
-- ⚡ Fun fact: Arch Linux better than Ubuntu :D
+- 👀 I’m interested in programming, playing trumpet, cyber security, and graphic 🎺
+- 🌱 I’m currently learning OpenGL C++
+- ⚡ Fun fact: There is no fun fact for today :(
 - 😊 I'm an amateur but I like programming very much
 
 # News

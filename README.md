@@ -1,6 +1,6 @@
 # Jurin-SK
 
-👋 Hi, I’m @Jurin-SK from Slovakia
+👋 Hi, I’m @Jurin-SK (Juraj Snoha) you can call me Juraj or Jurin. I am from Slovakia
 
 # About me
 

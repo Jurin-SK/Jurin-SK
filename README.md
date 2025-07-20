@@ -1,4 +1,4 @@
-# Jurin-SK
+# Juraj
 
 👋 Hi, I’m Juraj Snoha you can call me Juraj. I am from Slovakia
 

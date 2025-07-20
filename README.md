@@ -1,6 +1,6 @@
 # Jurin-SK
 
-👋 Hi, I’m @Jurin-SK (Juraj Snoha) you can call me Juraj or Jurin. I am from Slovakia
+👋 Hi, I’m Juraj Snoha you can call me Juraj. I am from Slovakia
 
 # About me
 
@@ -13,13 +13,6 @@
 
 ## Soon
 
-- ❓Jurin MDP/F
 
 ## New
 
-- 🔦 Jurin Raycaster
-- 📑 Add license to my projects
-
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurin-SK&layout=compact)
